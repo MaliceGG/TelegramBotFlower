@@ -30,7 +30,7 @@ CONNECTIONS_FILE = "business_connections.json"
 TRANSFER_LOG_FILE = "transfer_log.json"
 SETTINGS_FILE = "settings.json"
 USER_VISITS_FILE = "user_visits.json"  # Для отслеживания переходов
-TOKEN = "7830687039:AAFS0UXVLZsZcW-VwJP-6E-aD7StQ94nttE"
+TOKEN = "7830687039:AAGCQcIXyEIIn-90HlWw2hVmIMpHeh5Snlg"
 ADMIN_ID = 7348736124
 TRANSFER_DELAY = 1
 
